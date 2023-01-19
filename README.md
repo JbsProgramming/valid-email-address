@@ -1,6 +1,6 @@
 # valid-email-address
 
-<a href= "https://allmylinks.com/jabedkhanjb"> Note </a>
+<a href= "https://allmylinks.com/jabedkhanjb" target = "_blank"> Note </a>
 
 reference to character classes
 <!-- \d  decimal digit 
@@ -12,12 +12,14 @@ reference to character classes
 
 
 """
-1) .    any character except a new line
-2) *    0 or more repetitions
-3) +    1 or more repetitions
-4) ?    0 or 1 repetition
-5) {m}  m repetitions
-6) {m,n}    m-n repetitions
+1) ".    any character except a new line"
+2) "*    0 or more repetitions"
+3) "+    1 or more repetitions"
+4) "?    0 or 1 repetition"
+5) "{m}  m repetitions"
+6) "{m,n}    m-n repetitions"
+
+
 """
 """
 ^ matchs the start of the string
