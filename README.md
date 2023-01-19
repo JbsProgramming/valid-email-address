@@ -1,13 +1,14 @@
 # valid-email-address
 
 Note
+
 reference to character classes
-\d  decimal digit 
+<!-- \d  decimal digit 
 \D  not a decimal digit
 \s  whitespace characters 
 \S  not a whitespace character
 \w  word character ... as well as numebers and the underscore 
-\W  not a word character 
+\W  not a word character  -->
 
 
 """
