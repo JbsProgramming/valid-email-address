@@ -1,6 +1,6 @@
 # valid-email-address
 
-<a href= "https://allmylinks.com/jabedkhanjb" target = "_blank"> Note </a>
+## <a href= "https://allmylinks.com/jabedkhanjb" target = "_blank"> Note </a>
 
 reference to character classes
 <!-- \d  decimal digit 
@@ -31,7 +31,7 @@ r"" The r means that the string is to be treated as a raw string,
  which means all escape codes will be ignored. 
  For an example: '\n' will be treated as a newline character, 
  while r'\n' will be treated as the characters \ followed by n
-
+---
  A|B  either A or B 
  (...)  a group 
  (?:...)  non-capturing version
